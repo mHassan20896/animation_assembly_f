@@ -21,7 +21,7 @@ class _LogoPageState extends State<LogoPage> {
       body: Column(
         children: [
           Expanded(
-            child: _normalContainer(),
+            child: _animatedContainer(),
           ),
           Row(
             children: [
